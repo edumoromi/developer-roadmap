@@ -1,104 +1,70 @@
-![Web Developer Roadmap - 2021](https://i.imgur.com/4u3LK4j.png)
+![Roteiro Web Developer - 2021](https://i.imgur.com/4u3LK4j.png)
 
-> Roadmap to becoming a web developer in 2021
+> Roteiro para se tornar um desenvolvedor web em 2021
 
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 [![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
-[![](https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a)](./translations)
 [![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+Abaixo você encontra um conjunto de gráficos demonstrando os caminhos que você pode que você pode tomar e as tecnologias que você pode querer adotar a fim de se tornar um(a) desenvolvedor(a) frontend, backend ou um(a) DevOps. Eu ([kamranahmeds](https://github.com/kamranahmedse)) fiz esses gráficos para um velho professor meu que queria algo para compartilhar com seus alunos da faculdade para dar a eles uma perspectiva; os compartilho aqui para ajudar a comunidade.
 
 ***
 
 <p align="center">
-		<sup>Special Announcement:</sup>
+		<sup>Anúncio especial:</sup>
 		<br>
 		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
 			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
 		</a>
 		<br>
-		<sub><b>We now have a YouTube Channel</b></sub>
+		<sub><b>Nós agora temos um Canal no Youtube</b></sub>
 		<br>
-		<sub>I plan on covering the roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
+		<sub>Eu planejo cobrir os roteiros e colocar mais conteúdo lá<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Se inscreva no canal</a>.</sub>
 </p>
 
 ***
 
-<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
+<h3 align="center"><strong>Propósito desses Roteiros</strong></h3>
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+> O propósito desses Roteiros é dar a você uma ideia sobre o panorama e te guiar se você está confuso sobre o que aprender depois e não te encorajar a escolher o que está na moda. Você deve começar a entender o porquê de uma ferramenta seria melhor em alguns casos que outra e se lembrar de na moda nunca significa melhor adequada para o trabalho.
 
-<h3 align="center"><strong>Note to Beginners</strong></h3>
+<h3 align="center"><strong>Observação a Iniciantes</strong></h3>
 
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2021 release of the Backend and DevOps roadmaps.
+> Estes roteiros cobrem tudo que tem para aprender para os caminhos listados abaixo. Não se sinta sobrecarregado(a), você não precisa aprender tudo no começo se você está apenas começando. Nós estamos trabalhando nas versões iniciantes dessas e [serão lançadas em breve](https://roadmap.sh) depois que nós tivermos terminado com o lançamento dos roteiros de Backend e DevOps de 2021.
 
 ***
 
-If you think that these can be improved in any way, please do suggest.
+Se você acha que estes podem ser melhorados de qualquer jeito, por favor sugira como.
 
-## Introduction
+## Introdução
 
-![Web Developer Roadmap Introduction](./img/intro.png?v=2021)
+![](./img/intro-map.png)
 
-## Frontend Roadmap
+## Roteiro Frontend 
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
+![](./img/frontend-map.png)
 
-![Frontend Roadmap](./img/frontend.png?year-2021-2)
+## Roteiro Backend
 
-## Back-end Roadmap 
+![](./img/backend-map.png)
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
+## Roteiro DevOps
 
-![Back-end Roadmap](./img/backend.png?year-2021-2)
+![](./img/devops-map.png)
 
-## DevOps Roadmap
+## 🚦 Para Finalizar
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
+Se você acredita que os roteiros podem ser melhorados, sinta-se livre para discutir sobre nas issues. Além disso, eu vou continuar a melhorar isto, então você talvez queira clicar em watch ali em cima ou se inscrever em [roadmap.sh](http://roadmap.sh) para revisitar.
 
-![DevOps Roadmap](./img/devops.png)
+## 🙌 Contribuição
 
-## Wrap Up
+> Dê uma olhada nos [documentos de contribuição](https://github.com/kamranahmedse/developer-roadmap/blob/master/CONTRIBUTING.md) para saber como melhorar qualquer um dos roteiros
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+- Abra uma pull request com melhoramentos
+- Discuta ideias em issues
+- Espalhe a palavra
+- Entre em contato com qualquer feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+ 
+## Licença
 
-## Contribution
-
-> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-	<p>
-		<sup>
-			<a href="https://github.com/sponsors/kamranahmedse">My open source work is supported by the community</a>
-		</sup>
-	</p>
-	<sup>Special thanks to:</sup>
-	<br>
-	<p>
-	<a href="https://oss.capital">
-		<div>
-			<img src="./.github/sponsors/oss-logo.svg" width="300" alt="OSS Capital">
-		</div>
-		<div>
-			<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
-		</div>
-	</a>
-	</p>
-</div>
-
-<br>
-
-
-## License
-
-Have a look at the [license file](./LICENSE) for details
+Dê uma olhada no [arquivo de licença](https://github.com/kamranahmedse/developer-roadmap/blob/master/LICENSE) para detalhes
